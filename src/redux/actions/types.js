@@ -1,0 +1,10 @@
+export const addedNote = 'addedNote';
+export const deletedNote = 'deleteNote';
+export const viewedNote = 'viewedNote';
+export const editedNote = 'editedNote';
+export const addedCategory = 'addedCategory';
+export const deletedCategory = 'deletedCategory';
+export const addedCategoryNote = 'addedCategoryNote';
+export const deletedCategoryNote = 'deletedCategoryNote';
+export const viewedCategory = 'viewedCategory';
+export const viewedCategoryNote = 'viewedCategoryNote';
